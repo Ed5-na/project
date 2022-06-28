@@ -7,7 +7,6 @@ body{
     display: flex;
     justify-content: center;
     background: black;
-
 }
 .flex-container1{
     position: relative;
@@ -52,7 +51,6 @@ body{
     gap: 90px;
     top: 80px;
     left: 856px;
-
 }
 .header-link ul li{
     font-size: 18px; 
