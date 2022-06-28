@@ -11,14 +11,12 @@ body{
 }
 .flex-container1{
     position: relative;
-    border: px solid red;
     width: 1700px;
     height: 100vh;
 
 }
 .card1{
     position: relative;
-    border: px solid black;
     width: 1700px;
     height: 700px;
     background: #1f2937;
@@ -33,12 +31,7 @@ body{
      10px 10px 15px rgba(0,0,0,0.3),
     inset 10px 10px 15px rgba(255,255,255,0.19);
     border-radius: 0% 5% 94% 0%/90% 0% 93% 0;
-    
-
 }
-/*img{
-    width: 1400px;
-}*/
 .header{
     display: flex;
     justify-content: center;
@@ -52,9 +45,6 @@ body{
     border-radius: 50%;
     box-shadow: 10px 5px 10px;
 }
-.header-link{
-    /*justify-content: end;*/
-}
 .header-link ul{
     position: relative;
     list-style: none;
@@ -65,9 +55,7 @@ body{
 
 }
 .header-link ul li{
-    font-size: 18px;
-    
-    
+    font-size: 18px; 
 }
 .header-link ul li a{
     text-decoration: none;
@@ -213,7 +201,6 @@ body{
     left: 26%;
     width: 900px;
     height: 200px;
-    border: px solid red;
 }
 .content2 p{
     font-size: 30px;
